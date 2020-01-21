@@ -1,0 +1,51 @@
+/*about me grid*/
+.aboutMe-grid {
+    background: black;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, black, black);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, black, black); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /*covers whole background*/
+    height: calc(100vh - 64px);
+}
+/**/
+
+/*about me text part 1*/
+.aboutMe-grid h1 {
+    font-size: 28px;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: right;
+    color: white;
+}
+/**/
+
+/*about me text part 2*/
+.aboutMe-grid h2 {
+    font-size: 28px;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: left;
+    color: white;
+    border-left: 1px solid white;
+}
+/**/
+
+/*free-time*/
+.free-time {
+    background: black;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, black, black);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, black, black); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    font-size: 30px;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+    color: white;
+    border-top: 1px solid white;
+}
+
+.free-time img {
+    align-items: center;
+    width: 300px;
+    height: auto;
+}
+/**/
+
+/**/

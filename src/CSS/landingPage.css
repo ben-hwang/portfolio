@@ -1,0 +1,34 @@
+/*landing page*/
+.landingPage-grid {
+    /*color*/
+    /*background: #CB356B;  !* fallback for old browsers *!*/
+    /*background: -webkit-linear-gradient(to right, #BD3F32, #CB356B);  !* Chrome 10-25, Safari 5.1-6 *!*/
+    /*background: linear-gradient(to right, #BD3F32, #CB356B); !* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ *!*/
+
+    /*covers whole background*/
+    height: calc(100vh - 64px);
+}
+/**/
+
+/*image of me*/
+.avatar-img {
+    border-radius: 50%;
+}
+/**/
+
+/*Hello World, I'm Ben!*/
+.banner-text h1 {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}
+/**/
+
+/*Changing text*/
+.banner-text h2 {
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    color: #77dd77;
+}
+/**/

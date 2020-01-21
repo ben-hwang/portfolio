@@ -1,0 +1,46 @@
+/*experience page*/
+.experience-page {
+    /*color*/
+    background: #FFDFD3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFDFD3, #FFDFD3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFDFD3, #FFDFD3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /*covers whole background*/
+    height: calc(100vh - 64px);
+}
+/**/
+
+/*images on experience page*/
+.experience-page img {
+    max-width: 100%;
+    max-height: 100%;
+}
+/**/
+
+/*individual cells on experience page*/
+.cell1 {
+    background: #F5F5DC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F5F5DC, #F5F5DC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F5F5DC, #F5F5DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.cell2 {
+    background: #aec6cf;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #aec6cf, #aec6cf);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #aec6cf, #aec6cf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.cell3 {
+    background: #ff6961;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff6961, #ff6961);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ff6961, #ff6961); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/**/
+
+/*text*/
+.experience-page text {
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: black;
+}
