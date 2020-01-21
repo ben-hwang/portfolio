@@ -1,5 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Note: This project is not yet responsive. Feature is under development.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br /><br />
+
+Future features:<br /> 
+Responsive layout<br />
+Scrolling navigation<br /><br />
 
 ## Available Scripts
 
